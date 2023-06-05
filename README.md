@@ -1,4 +1,4 @@
-# World_Progress
+# World Progress
 In this project, I delved into the wealth of data available on Gapminder.org, a source for fact-based view of the world and how it has changed. Gapminder.org offers various data visualizations and presentations, along with the raw data that serves as the foundation for this project. My goal was to expand upon some of the renowned visualizations found on the website. My analysis is divided into two sections: global population growth and global poverty.
 
 ## Global Population Growth
